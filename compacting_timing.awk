@@ -1,4 +1,4 @@
-#!/usr/bin/awk -f
+#!/usr/bin/env awk -f
 
 ##
 ## Provide an OSD log for timing output of each leveldb Compaction event

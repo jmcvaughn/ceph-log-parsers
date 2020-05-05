@@ -1,4 +1,4 @@
-#!/usr/bin/awk -f
+#!/usr/bin/env awk -f
 BEGIN {
   MYMONTHS["Jan"]=1
   MYMONTHS["Feb"]=2
